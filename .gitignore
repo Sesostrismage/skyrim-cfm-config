@@ -3,3 +3,6 @@ translations/
 *.html
 *.swf
 *.txt
+
+/favoritesmenu_equipsets.cfg
+/favoritesmenu_overrides.cfg
